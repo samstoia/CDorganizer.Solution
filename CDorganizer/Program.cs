@@ -1,7 +1,7 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace Organizer
+namespace CDorganizer
 {
   public class Program
   {
